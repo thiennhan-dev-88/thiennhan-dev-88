@@ -4,7 +4,6 @@
 
   <br/>
 
-  **Software Engineering Student · Backend Development · Java & Spring Boot**
 
   ---
 </div>
