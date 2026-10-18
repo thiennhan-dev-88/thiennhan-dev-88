@@ -1,187 +1,109 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020403,40:052E16,75:0A5C2B,100:00FF66&text=ROOT%20ACCESS&fontColor=00FF66&fontSize=58&fontAlignY=45&desc=THIENNHAN-DEV-88%20%2F%2F%20BACKEND%20DIVISION&descSize=13&descAlignY=68&animation=twinkling" />
+# MIDNIGHT ARCHITECT
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM       : THIENNHAN-DEV-88                            ║
-║  ACCESS LEVEL : DEVELOPER                                   ║
-║  STATUS       : ONLINE                                      ║
-║  SPECIALTY    : BACKEND ENGINEERING                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+*Building systems in silence.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=800&color=00FF66&center=true&vCenter=true&width=650&lines=%3E+Initializing+backend+environment...;%3E+Loading+Java+%7C+Spring+Boot+%7C+SQL+Server;%3E+Debugging+the+system%2C+one+line+at+a+time.;%3E+Access+granted.+Welcome+to+my+profile." />
+**Software Engineering Student · Backend Development · Java & Spring Boot**
+
+---
 
 </div>
 
-```bash
-┌──(thiennhan㉿github)-[~/profile]
-└─$ cat identity.sys
-```
+## About Me
 
-```text
-[IDENTITY]
-Name       : Tran Thien Nhan
-Role       : Software Engineering Student
-Target     : Backend Developer
-Primary OS : Human
-Mindset    : Understand the system, not just the code.
+I'm a Software Engineering student at **FPT University Ho Chi Minh City**, currently focusing on backend development with Java and Spring Boot.
 
-[CURRENT DIRECTIVES]
-01. Build reliable backend applications.
-02. Design clean APIs and database structures.
-03. Learn software architecture through real projects.
-04. Turn bugs into knowledge.
-```
+I enjoy designing APIs, structuring projects around maintainable architecture, and understanding how systems work beneath the surface — not just making them work.
 
-> `I don't just want the code to work. I want to understand why it works.`
+My goal is to become a backend engineer who builds reliable systems before chasing complexity.
 
----
+## Current Focus
 
-### `01 // TECHNICAL ARSENAL`
+- Building backend applications with Spring Boot
+- REST API design and authentication with JWT
+- SQL Server and relational database design
+- Modular project architecture and maintainable code
+- Learning software engineering and system design fundamentals
 
-```text
-[SCANNING ENVIRONMENT ............... COMPLETE]
-```
+## Tech Stack
 
-**LANGUAGES**
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c" alt="Java, C++, C" />
 </p>
 
-**BACKEND & DATABASE**
+**Backend Development**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=spring,maven" alt="Spring Boot, Maven" />
 </p>
 
-**DEVELOPMENT ENVIRONMENT**
+**Database**
+
+`Microsoft SQL Server` · `Spring Data JPA`
+
+**Development Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman" alt="IntelliJ IDEA, VS Code, Git, GitHub, Postman" />
 </p>
 
-**VERSION CONTROL**
+## Featured Project
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+### ChayBook — Vegetarian Community Platform
 
-```text
-$ ./scan_skills.sh --mode=learning
+A university team project focused on building a community platform for people interested in vegetarian lifestyles.
 
-[ACTIVE]    Java & Spring Boot
-[ACTIVE]    C / C++
-[ACTIVE]    REST API development
-[ACTIVE]    Relational database design
-[ACTIVE]    Git & GitHub
-[LEARNING]  Backend architecture & testing
+**My Role: Backend Developer**
 
-> Skill tree is still expanding...
-```
+- Designed the initial backend architecture using a package-by-module structure.
+- Developed backend entities and relational data models.
+- Implemented REST APIs using Java and Spring Boot.
+- Worked on authentication and JWT-based security.
+- Supported API integration and backend consistency across the team.
 
-### `02 // ACTIVE OPERATIONS`
+**Tech Stack**
 
-```bash
-$ ls -la ~/operations/
-```
+`Java` `Spring Boot` `Spring Data JPA` `Microsoft SQL Server` `JWT`
 
-#### `OP-001 :: CHAYBOOK`
+## Engineering Philosophy
 
-**Vegetarian Community Platform**
+> Good software is often invisible.
 
-[![OPEN REPOSITORY](https://img.shields.io/badge/ACCESS_REPOSITORY-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MinNeoVo/ChayBook)
+I believe clean architecture isn't about writing more layers — it's about making tomorrow's code easier to understand than today's.
 
-```text
-PROJECT     : ChayBook
-TYPE        : Team Software Engineering Project
-DOMAIN      : Vegetarian Food & Community
-MY POSITION : Backend Developer
-STATUS      : IN DEVELOPMENT
-```
+I prefer understanding the reasoning behind a solution over simply making it work.
 
-**Backend responsibilities**
-
-- Design and manage entities and database relationships.
-- Build REST APIs with Java and Spring Boot.
-- Organize features using a package-by-module structure.
-- Separate controller, service, repository, DTO, and entity responsibilities.
-- Coordinate API contracts with frontend and integration teammates.
-- Explore AI-assisted content moderation for community posts and videos.
-
-```text
-[PROJECT STACK]
-Java :: Spring Boot :: SQL Server :: REST API :: Git
-
-[MISSION]
-Build a maintainable backend that supports the platform's
-core features and can evolve with the project.
-```
-
----
-
-### `03 // SYSTEM TELEMETRY`
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thiennhan-dev-88&show_icons=true&hide_border=true&bg_color=020403&title_color=00FF66&icon_color=00FF66&text_color=8BFFB0&rank_icon=github" height="170" alt="GitHub system telemetry" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiennhan-dev-88&show_icons=true&hide_border=true&bg_color=0d1017&title_color=c9d1d9&text_color=8b949e&icon_color=8a849b" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennhan-dev-88&layout=compact&hide_border=true&bg_color=020403&title_color=00FF66&text_color=8BFFB0" height="170" alt="Language distribution" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thiennhan-dev-88&hide_border=true&background=0d1017&stroke=30363d&ring=8a849b&fire=8a849b&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="GitHub Contribution Streak" />
 
 </div>
 
-```text
-$ git log --oneline -3
+## Connect
 
-# Keep building.
-# Keep debugging.
-# Keep learning.
-```
-
----
-
-### `04 // NEXT OBJECTIVES`
-
-```text
-[ ] Strengthen Java fundamentals
-[ ] Improve Spring Boot architecture
-[ ] Design better APIs and database schemas
-[ ] Learn testing and maintainable code practices
-[ ] Ship more complete backend projects
-```
+<p>
+  <a href="https://www.linkedin.com/in/nh%C3%A2n-thi%E1%BB%87n-954973353/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tentuilathiennhan0806@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   ACCESS GRANTED                                           │
-│   SESSION: CONTINUOUS LEARNING                             │
-│                                                            │
-│   "The best way to understand a system                     │
-│    is to build one."                                       │
-│                                                            │
-│   $ exit                                                   │
-│   Connection closed. Terminal remains active.              │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+*One more commit before sunrise.*
 
-[![GitHub](https://img.shields.io/badge/GITHUB-THIENNHAN--DEV--88-00FF66?style=flat-square&logo=github&logoColor=black)](https://github.com/thiennhan-dev-88)
-
-<sub>BUILT WITH CURIOSITY // POWERED BY COFFEE // IMPROVED BY DEBUGGING</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FF66" />
+<sub>Quietly building. Constantly learning.</sub>
 
 </div>
