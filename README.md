@@ -1,156 +1,166 @@
-<!--
-  TERMINAL GREEN | GitHub Profile README
-  Profile: Tran Thien Nhan
-  GitHub: thiennhan-dev-88
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071A0D,50:0B3D1B,100:39D353&text=SYSTEM%20ONLINE&fontColor=39D353&fontSize=55&fontAlignY=42&desc=BACKEND%20DEVELOPER%20IN%20PROGRESS&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020403,40:052E16,75:0A5C2B,100:00FF66&text=ROOT%20ACCESS&fontColor=00FF66&fontSize=58&fontAlignY=45&desc=THIENNHAN-DEV-88%20%2F%2F%20BACKEND%20DIVISION&descSize=13&descAlignY=68&animation=twinkling" />
 
-<br/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  SYSTEM       : THIENNHAN-DEV-88                            ║
+║  ACCESS LEVEL : DEVELOPER                                   ║
+║  STATUS       : ONLINE                                      ║
+║  SPECIALTY    : BACKEND ENGINEERING                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Tran+Thien+Nhan.;Software+Engineering+Student.;Java+%7C+Spring+Boot+%7C+SQL+Server.;Building+backend+systems+one+commit+at+a+time.)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/thiennhan-dev-88?style=flat-square&logo=github&label=Followers&color=39D353)](https://github.com/thiennhan-dev-88)
-[![GitHub User's stars](https://img.shields.io/github/stars/thiennhan-dev-88?style=flat-square&logo=github&label=Stars&color=39D353)](https://github.com/thiennhan-dev-88)
-![Profile Views](https://komarev.com/ghpvc/?username=thiennhan-dev-88&style=flat-square&color=39D353&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=800&color=00FF66&center=true&vCenter=true&width=650&lines=%3E+Initializing+backend+environment...;%3E+Loading+Java+%7C+Spring+Boot+%7C+SQL+Server;%3E+Debugging+the+system%2C+one+line+at+a+time.;%3E+Access+granted.+Welcome+to+my+profile." />
 
 </div>
-
----
-
-## `whoami`
 
 ```bash
-$ whoami
-Tran Thien Nhan
-
-$ role
-Software Engineering Student | Aspiring Backend Developer
-
-$ primary_stack
-Java, Spring Boot, SQL Server
-
-$ current_mission
-Build reliable backend systems and understand
-the engineering principles behind them.
-
-$ status
-Learning. Building. Debugging. Improving.
+┌──(thiennhan㉿github)-[~/profile]
+└─$ cat identity.sys
 ```
-
-I'm a Software Engineering student interested in **backend development, software architecture, and building practical applications**.
-
-I enjoy understanding how things work under the hood — from REST APIs and database design to application architecture and the flow of data through a backend system.
-
-- Currently focusing on **Java and Spring Boot**.
-- Building backend features for **ChayBook**, a vegetarian community platform.
-- Learning to write maintainable code with clear separation of responsibilities.
-- Always working to strengthen my fundamentals instead of simply making code work.
 
 ```text
-> First make it work.
-> Then make it clear.
-> Then make it better.
+[IDENTITY]
+Name       : Tran Thien Nhan
+Role       : Software Engineering Student
+Target     : Backend Developer
+Primary OS : Human
+Mindset    : Understand the system, not just the code.
+
+[CURRENT DIRECTIVES]
+01. Build reliable backend applications.
+02. Design clean APIs and database structures.
+03. Learn software architecture through real projects.
+04. Turn bugs into knowledge.
 ```
+
+> `I don't just want the code to work. I want to understand why it works.`
 
 ---
 
-## `ls ./tech-stack`
-
-### Languages & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-39D353?style=for-the-badge&logo=fastapi&logoColor=black" />
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-</p>
-
-### Currently Exploring
+### `01 // TECHNICAL ARSENAL`
 
 ```text
-[+] Backend architecture & modular design
-[+] Authentication and authorization
-[+] Spring Data JPA & database relationships
-[+] DTOs, validation & API contracts
-[+] Testing, debugging & maintainable code
+[SCANNING ENVIRONMENT ............... COMPLETE]
+```
+
+| MODULE | TECHNOLOGIES |
+|---|---|
+| `LANGUAGE` | ![Java](https://img.shields.io/badge/Java-00FF66?style=flat-square&logo=openjdk&logoColor=black) |
+| `BACKEND` | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FF66?style=flat-square&logo=springboot&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-123524?style=flat-square&logo=fastapi&logoColor=00FF66) |
+| `DATABASE` | ![SQL Server](https://img.shields.io/badge/SQL_Server-123524?style=flat-square&logo=microsoftsqlserver&logoColor=00FF66) |
+| `WORKFLOW` | ![Git](https://img.shields.io/badge/Git-123524?style=flat-square&logo=git&logoColor=00FF66) ![GitHub](https://img.shields.io/badge/GitHub-123524?style=flat-square&logo=github&logoColor=00FF66) |
+| `ENVIRONMENT` | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-123524?style=flat-square&logo=intellijidea&logoColor=00FF66) |
+
+```bash
+$ ./scan_skills.sh --mode=learning
+
+[ACTIVE]    Java & Spring Boot
+[ACTIVE]    REST API development
+[ACTIVE]    Relational database design
+[ACTIVE]    Modular backend architecture
+[LEARNING] Authentication & authorization
+[LEARNING] Testing and code quality
+
+> Skill tree is still expanding...
 ```
 
 ---
 
-## `projects/`
+### `02 // ACTIVE OPERATIONS`
 
-### 01. ChayBook
+```bash
+$ ls -la ~/operations/
+```
 
-**A vegetarian community platform**
+#### `OP-001 :: CHAYBOOK`
 
-[![Repository](https://img.shields.io/badge/GitHub-View_Repository-39D353?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MinNeoVo/ChayBook)
+**Vegetarian Community Platform**
 
-ChayBook is a team-based software engineering project focused on connecting people through vegetarian food, recipes, and community content.
+[![OPEN REPOSITORY](https://img.shields.io/badge/ACCESS_REPOSITORY-00FF66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MinNeoVo/ChayBook)
 
-**My focus: Backend Development**
+```text
+PROJECT     : ChayBook
+TYPE        : Team Software Engineering Project
+DOMAIN      : Vegetarian Food & Community
+MY POSITION : Backend Developer
+STATUS      : IN DEVELOPMENT
+```
 
-- Designing and working with application entities and database relationships.
-- Developing REST APIs using Java and Spring Boot.
-- Organizing backend code by feature/module.
-- Separating responsibilities across controllers, services, repositories, DTOs, and entities.
-- Collaborating with frontend and integration teammates on API contracts.
-- Exploring AI-assisted content moderation workflows.
+**Backend responsibilities**
 
-**Tech stack**
+- Design and manage entities and database relationships.
+- Build REST APIs with Java and Spring Boot.
+- Organize features using a package-by-module structure.
+- Separate controller, service, repository, DTO, and entity responsibilities.
+- Coordinate API contracts with frontend and integration teammates.
+- Explore AI-assisted content moderation for community posts and videos.
 
-`Java` `Spring Boot` `SQL Server` `REST API` `Git`
+```text
+[PROJECT STACK]
+Java :: Spring Boot :: SQL Server :: REST API :: Git
 
-> A work in progress — built through collaboration, debugging, and continuous learning.
+[MISSION]
+Build a maintainable backend that supports the platform's
+core features and can evolve with the project.
+```
 
 ---
 
-## `./github-stats.sh`
+### `03 // SYSTEM TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiennhan-dev-88&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thiennhan-dev-88&show_icons=true&hide_border=true&bg_color=020403&title_color=00FF66&icon_color=00FF66&text_color=8BFFB0&rank_icon=github" height="170" alt="GitHub system telemetry" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennhan-dev-88&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennhan-dev-88&layout=compact&hide_border=true&bg_color=020403&title_color=00FF66&text_color=8BFFB0" height="170" alt="Language distribution" />
 
 </div>
 
+```text
+$ git log --oneline -3
+
+# Keep building.
+# Keep debugging.
+# Keep learning.
+```
+
 ---
 
-## `./current-objectives.txt`
+### `04 // NEXT OBJECTIVES`
 
 ```text
-[IN PROGRESS] Strengthen Java fundamentals
-[IN PROGRESS] Build better Spring Boot applications
-[IN PROGRESS] Improve database and API design
-[IN PROGRESS] Learn software architecture through practice
-[NEXT UP]     Write more tests and improve code quality
+[ ] Strengthen Java fundamentals
+[ ] Improve Spring Boot architecture
+[ ] Design better APIs and database schemas
+[ ] Learn testing and maintainable code practices
+[ ] Ship more complete backend projects
 ```
 
 ---
 
 <div align="center">
 
-### `exit 0`
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   ACCESS GRANTED                                           │
+│   SESSION: CONTINUOUS LEARNING                             │
+│                                                            │
+│   "The best way to understand a system                     │
+│    is to build one."                                       │
+│                                                            │
+│   $ exit                                                   │
+│   Connection closed. Terminal remains active.              │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-**Thanks for visiting my terminal.**
+[![GitHub](https://img.shields.io/badge/GITHUB-THIENNHAN--DEV--88-00FF66?style=flat-square&logo=github&logoColor=black)](https://github.com/thiennhan-dev-88)
 
-*Keep learning. Keep building. Keep shipping.*
+<sub>BUILT WITH CURIOSITY // POWERED BY COFFEE // IMPROVED BY DEBUGGING</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=39D353" width="100%" />
-
-<sub>Designed with a terminal mindset · Powered by curiosity</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00FF66" />
 
 </div>
