@@ -4,10 +4,6 @@
 
   <br/>
 
-  # MIDNIGHT ARCHITECT
-
-  *Building systems in silence.*
-
   **Software Engineering Student · Backend Development · Java & Spring Boot**
 
   ---
