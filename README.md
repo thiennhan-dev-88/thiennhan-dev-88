@@ -45,28 +45,49 @@ Mindset    : Understand the system, not just the code.
 [SCANNING ENVIRONMENT ............... COMPLETE]
 ```
 
-| MODULE | TECHNOLOGIES |
-|---|---|
-| `LANGUAGE` | ![Java](https://img.shields.io/badge/Java-00FF66?style=flat-square&logo=openjdk&logoColor=black) |
-| `BACKEND` | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FF66?style=flat-square&logo=springboot&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-123524?style=flat-square&logo=fastapi&logoColor=00FF66) |
-| `DATABASE` | ![SQL Server](https://img.shields.io/badge/SQL_Server-123524?style=flat-square&logo=microsoftsqlserver&logoColor=00FF66) |
-| `WORKFLOW` | ![Git](https://img.shields.io/badge/Git-123524?style=flat-square&logo=git&logoColor=00FF66) ![GitHub](https://img.shields.io/badge/GitHub-123524?style=flat-square&logo=github&logoColor=00FF66) |
-| `ENVIRONMENT` | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-123524?style=flat-square&logo=intellijidea&logoColor=00FF66) |
+**LANGUAGES**
 
-```bash
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+**BACKEND & DATABASE**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+**DEVELOPMENT ENVIRONMENT**
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
+
+**VERSION CONTROL**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+```text
 $ ./scan_skills.sh --mode=learning
 
 [ACTIVE]    Java & Spring Boot
+[ACTIVE]    C / C++
 [ACTIVE]    REST API development
 [ACTIVE]    Relational database design
-[ACTIVE]    Modular backend architecture
-[LEARNING] Authentication & authorization
-[LEARNING] Testing and code quality
+[ACTIVE]    Git & GitHub
+[LEARNING]  Backend architecture & testing
 
 > Skill tree is still expanding...
 ```
-
----
 
 ### `02 // ACTIVE OPERATIONS`
 
