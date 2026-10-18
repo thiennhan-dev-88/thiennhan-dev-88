@@ -1,14 +1,18 @@
- <div align="center">
 
-# MIDNIGHT ARCHITECT
+<div align="center">
+  <img src="./midnight-sky.svg" width="100%" alt="Midnight Architect — Night Sky" />
 
-*Building systems in silence.*
+  <br/>
 
-**Software Engineering Student · Backend Development · Java & Spring Boot**
+  # MIDNIGHT ARCHITECT
 
----
+  *Building systems in silence.*
 
+  **Software Engineering Student · Backend Development · Java & Spring Boot**
+
+  ---
 </div>
+
 
 ## About Me
 
