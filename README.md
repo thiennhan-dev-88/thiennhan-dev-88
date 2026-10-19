@@ -8,6 +8,8 @@
   ---
 </div>
 
+[![Math Utility Project (CI included) | A Thien_Nhan project](https://github.com/NhanCodeWeb-commits/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/NhanCodeWeb-commits/math-util/actions/workflows/ci-script.yml)
+
 
 ## About Me
 
